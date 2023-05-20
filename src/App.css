@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.logo {
+    background-color: salmon;
+    max-width: 100%;
+    margin-left: 10px;
+}
